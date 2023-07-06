@@ -1,0 +1,16 @@
+
+.atalhossup ul {
+    display: flex;
+    justify-content: center;
+}
+
+.atalhossup ul a {
+    display: block;
+    padding: 10px;
+}
+
+.atalhossup ul li a img {
+    max-width: 40px;
+}
+
+
